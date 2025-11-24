@@ -1,4 +1,4 @@
-# Weather Dashboard
+# Local Weather Dashboard
 
 A modern desktop weather application built with **Python** and **PyQt5**. It fetches weather data from [Open-Meteo](https://open-meteo.com/) and displays current conditions along with hourly forecasts. The app features **web-based weather icons**, a clean dark UI, and all key weather metrics.
 
@@ -30,8 +30,8 @@ A modern desktop weather application built with **Python** and **PyQt5**. It fet
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/ssbodea/Weather-App.git
-cd Weather-App
+git clone https://github.com/ssbodea/Local-Weather.git
+cd Local-Weather
 
 # On Windows
 python -m venv venv
